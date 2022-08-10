@@ -4,10 +4,6 @@
 ## Configuración de pruebas con **pytest**
 
 `nota:` Para probar utiliza los comandos
-### Comando para instalar 
-```
-pip3 install pytest
-```
 
 - ## 03 Promedio Calificaciones
     ### Run command
